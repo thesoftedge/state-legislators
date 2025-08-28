@@ -12599,6 +12599,20 @@
     party: Republican
     contact_form: 
 - id:
+    bioguide: SFLSM37223
+    MBR_ID: 1913
+    UNIQUEMBRID: 37223
+  name:
+    first: Debbie
+    last: Mayfield
+  terms:
+  - type: sen
+    state: FL
+    class: 1
+    district: 019
+    party: Republican
+    contact_form: 
+- id:
     bioguide: SFLSB38520
     MBR_ID: 1904
     UNIQUEMBRID: 38520

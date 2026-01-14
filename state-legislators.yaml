@@ -13019,6 +13019,20 @@
     party: Republican
     contact_form: 
 - id:
+    bioguide: SFLSM44706
+    MBR_ID: 1905
+    UNIQUEMBRID: 44706
+  name:
+    first: Ralph
+    last: Massullo
+  terms:
+  - type: sen
+    state: FL
+    class: 1
+    district: 011
+    party: Republican
+    contact_form: 
+- id:
     bioguide: SFLHS48504
     MBR_ID: 1935
     UNIQUEMBRID: 48504
